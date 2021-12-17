@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Cpp_Complete" Database="" Version="10000">
+  <Project Name="06-01-ABankAccountClass" Path="project-solutions/section 6/06-01-ABankAccountClass/06-01-ABankAccountClass.project" Active="No"/>
+  <Project Name="06-02-APizzaClass" Path="project-solutions/section 6/06-02-APizzaClass/06-02-APizzaClass.project" Active="No"/>
+  <Project Name="Houses" Path="course-source-files/section 6/Houses/Houses.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="06-01-ABankAccountClass" ConfigName="Debug"/>
+      <Project Name="06-02-APizzaClass" ConfigName="Debug"/>
+      <Project Name="Houses" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="06-01-ABankAccountClass" ConfigName="Release"/>
+      <Project Name="06-02-APizzaClass" ConfigName="Release"/>
+      <Project Name="Houses" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
